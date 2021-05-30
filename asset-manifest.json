@@ -1,0 +1,43 @@
+{
+  "files": {
+    "static/js/0.3bf8c0b2.chunk.js": "/static/js/0.3bf8c0b2.chunk.js",
+    "static/js/1.f6bdec8e.chunk.js": "/static/js/1.f6bdec8e.chunk.js",
+    "static/js/2.0b4306ab.chunk.js": "/static/js/2.0b4306ab.chunk.js",
+    "main.js": "/static/js/main.2d75f166.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.3ed294e0.js",
+    "static/js/5.174249ee.chunk.js": "/static/js/5.174249ee.chunk.js",
+    "static/js/6.b288dcef.chunk.js": "/static/js/6.b288dcef.chunk.js",
+    "static/css/7.0cbb7271.chunk.css": "/static/css/7.0cbb7271.chunk.css",
+    "static/js/7.eb9c7148.chunk.js": "/static/js/7.eb9c7148.chunk.js",
+    "static/js/8.f64d54e6.chunk.js": "/static/js/8.f64d54e6.chunk.js",
+    "static/js/9.67f41d32.chunk.js": "/static/js/9.67f41d32.chunk.js",
+    "static/js/10.6f3d28f4.chunk.js": "/static/js/10.6f3d28f4.chunk.js",
+    "static/js/11.1f9ac094.chunk.js": "/static/js/11.1f9ac094.chunk.js",
+    "static/js/12.1fbc6349.chunk.js": "/static/js/12.1fbc6349.chunk.js",
+    "static/js/13.a9188659.chunk.js": "/static/js/13.a9188659.chunk.js",
+    "static/js/14.e7ff14ef.chunk.js": "/static/js/14.e7ff14ef.chunk.js",
+    "static/js/15.a5cda737.chunk.js": "/static/js/15.a5cda737.chunk.js",
+    "static/js/16.5cb85661.chunk.js": "/static/js/16.5cb85661.chunk.js",
+    "static/js/17.9e5d1bcb.chunk.js": "/static/js/17.9e5d1bcb.chunk.js",
+    "static/js/18.46b59b41.chunk.js": "/static/js/18.46b59b41.chunk.js",
+    "static/js/19.21b83ee8.chunk.js": "/static/js/19.21b83ee8.chunk.js",
+    "static/js/20.2de58f09.chunk.js": "/static/js/20.2de58f09.chunk.js",
+    "index.html": "/index.html",
+    "static/js/5.174249ee.chunk.js.LICENSE.txt": "/static/js/5.174249ee.chunk.js.LICENSE.txt",
+    "static/js/6.b288dcef.chunk.js.LICENSE.txt": "/static/js/6.b288dcef.chunk.js.LICENSE.txt",
+    "static/media/all-bunnies.82a075e3.png": "/static/media/all-bunnies.82a075e3.png",
+    "static/media/cakers-share.861e6e70.png": "/static/media/cakers-share.861e6e70.png",
+    "static/media/cakers.75b0a4b2.png": "/static/media/cakers.75b0a4b2.png",
+    "static/media/flippers-share.138fa6c9.png": "/static/media/flippers-share.138fa6c9.png",
+    "static/media/flippers.1a1609fa.png": "/static/media/flippers.1a1609fa.png",
+    "static/media/share-profile-mask.cb41122e.png": "/static/media/share-profile-mask.cb41122e.png",
+    "static/media/storm-share.b4d6c198.png": "/static/media/storm-share.b4d6c198.png",
+    "static/media/storm.2bea7ba6.png": "/static/media/storm.2bea7ba6.png",
+    "static/media/syrup-nft.2201815e.png": "/static/media/syrup-nft.2201815e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ed294e0.js",
+    "static/js/5.174249ee.chunk.js",
+    "static/js/main.2d75f166.chunk.js"
+  ]
+}
